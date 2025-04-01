@@ -8,7 +8,9 @@ Hi there! I'm a MERN Stack Developer with a passion for building scalable web ap
 📊 GitHub Stats
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=roggoz&show_icons=true&theme=dracula) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=roggoz&show_icons=true&theme=dracula) 
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roggoz&layout=compact&theme=dracula)
 
