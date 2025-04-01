@@ -1,20 +1,18 @@
 🚀 Welcome to My GitHub!
 Hi there! I'm a MERN Stack Developer with a passion for building scalable web applications. I love working with React, Node.js, MongoDB, and Express.
 
-🔭 Currently working on [Your Current Project]
-🌱 Learning Vue.js & Tailwind CSS
-⚡ Fun Fact: I love music and tech innovations
+🔭 Currently working on an e-commerce site
+🌱 Learning Tailwind CSS
+⚡ Fun Fact: I love Star Wars and Marvwl
 
 📊 GitHub Stats
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=roggoz&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=roggoz&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roggoz&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roggoz&layout=compact&theme=dracula)
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=roggoz&theme=react)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roggoz&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roggoz&theme=dracula)
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=roggoz&theme=radical)
 
@@ -71,4 +69,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=roggoz&theme=react)
 -->
