@@ -1,5 +1,7 @@
 ## Hi there 👋
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=roggoz&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=roggoz&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roggoz&layout=compact&theme=radical)
+
 
 <!--
 **roggoz/roggoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
