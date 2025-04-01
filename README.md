@@ -3,7 +3,7 @@ Hi there! I'm a MERN Stack Developer with a passion for building scalable web ap
 
 🔭 Currently working on an e-commerce site
 🌱 Learning Tailwind CSS
-⚡ Fun Fact: I love Star Wars and Marvwl
+⚡ Fun Fact: I love Star Wars and Marvel
 
 📊 GitHub Stats
 
@@ -15,6 +15,9 @@ Hi there! I'm a MERN Stack Developer with a passion for building scalable web ap
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roggoz&theme=dracula)
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=roggoz&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=roggoz&theme=radical)
+
 
 
 
