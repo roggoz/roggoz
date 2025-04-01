@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=roggoz&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=roggoz&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roggoz&layout=compact&theme=radical)
 
 
