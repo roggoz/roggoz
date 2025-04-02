@@ -1,6 +1,6 @@
 ## Hi, I'm Reagan 😎
 
-🚀 Welcome to My GitHub!
+🚀 Welcome to My GitHub!<br>
 I'm a MERN Stack Developer with a passion for building scalable web applications. <br>
 I love working with React, Node.js, MongoDB, and Express.<br>
 
