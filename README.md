@@ -1,9 +1,12 @@
-🚀 Welcome to My GitHub!
-Hi there! I'm a MERN Stack Developer with a passion for building scalable web applications. I love working with React, Node.js, MongoDB, and Express.
+## Hi, I'm Reagan 😎
 
-🔭 Currently working on an e-commerce site
-🌱 Learning Tailwind CSS
-⚡ Fun Fact: I love Star Wars and Marvel
+🚀 Welcome to My GitHub!
+I'm a MERN Stack Developer with a passion for building scalable web applications. <br>
+I love working with React, Node.js, MongoDB, and Express.<br>
+
+🔭 Currently working on an e-commerce site<br>
+🌱 Learning Tailwind CSS<br>
+⚡ Fun Fact: I love Star Wars and Marvel<br>
 
 
 ## 🌐 Socials:
