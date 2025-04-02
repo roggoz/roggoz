@@ -4,6 +4,8 @@
 I'm a MERN Stack Developer with a passion for building scalable web applications. <br>
 I love working with React, Node.js, MongoDB, and Express.<br>
 
+Checkout my [Portfolio](https://portfolio-mu-taupe-15.vercel.app/)<br>
+
 🔭 Currently working on an e-commerce site<br>
 🌱 Learning Tailwind CSS<br>
 ⚡ Fun Fact: I love Star Wars and Marvel<br>
