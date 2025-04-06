@@ -32,6 +32,22 @@ Checkout my [Portfolio](https://portfolio-mu-taupe-15.vercel.app/)<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=roggoz&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+### 🚀 Projects
+1️⃣ Pharmaceutical System
+🔹 Features: Employee reporting, sales tracking, task allocation
+🔹 Tech: MERN Stack, Tailwind CSS
+
+2️⃣ Music Web App
+🔹 Features: Playlists, streaming, user authentication
+🔹 Tech: React, Node.js, MongoDB
+
+3️⃣ Bulk Disbursement System
+🔹 Features: Automate payments, APIs for clients
+🔹 Tech: MERN Stack, API Integration
+
+📫 Connect with Me
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--📊 GitHub Stats
