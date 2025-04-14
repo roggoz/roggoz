@@ -7,7 +7,7 @@ I love working with React, Node.js, MongoDB, and Express.<br>
 Checkout my [Portfolio](https://portfolio-mu-taupe-15.vercel.app/)<br>
 
 🔭 Currently working on an e-commerce site.<br>
-🌱 Learning Tailwind CSS<br>
+🌱 Learning Tailwind CSS.<br>
 ⚡ Fun Fact: I love Star Wars and Marvel!!<br>
 
 
