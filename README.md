@@ -8,7 +8,7 @@ Checkout my [Portfolio](https://portfolio-mu-taupe-15.vercel.app/)<br>
 
 🔭 Currently working on an e-commerce site<br>
 🌱 Learning Tailwind CSS<br>
-⚡ Fun Fact: I love Star Wars and Marvel<br>
+⚡ Fun Fact: I love Star Wars and Marvel!!<br>
 
 
 ## 🌐 Socials:
